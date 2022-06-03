@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHub List</string>
+    <string name="tv_id">Id: %s</string>
+    <string name="tv_login">Логин: %s</string>
+    <string name="tv_name">Имя: %s</string>
+    <string name="tv_description">Описание: %s</string>
+</resources>
